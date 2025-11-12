@@ -14,6 +14,7 @@ Admin dapat melihat, mengurutkan, mencari, dan menghapus komentar yang masuk pad
 - Kolom dapat **diurutkan (sort)** dan **dicari (search)**
 - Tersedia **aksi hapus** untuk setiap komentar
 - Mendukung **hapus massal (bulk delete)**
-- Tombol “Tambah Komentar” di kanan atas **dihilangkan**, karena komentar dibuat dari sisi pengguna
 
 ---
+## OUTPUT
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c9b80848-e6cd-4b35-b009-fcdaee7b161b" />
